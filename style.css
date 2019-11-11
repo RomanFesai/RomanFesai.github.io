@@ -1,0 +1,46 @@
+.body{
+  background-image: url(firekeeper-1571939414561-4274.jpg);
+  background-size: 100%;
+}
+.background{
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+}
+header{
+    width: 100%;
+	background-color: #000000;
+	height: 120px;
+}
+header img{
+	 float:left;
+    width:80px;
+    height:100px;
+}
+header div{
+	background-color: #000000;
+	font-weight: bold;
+}
+nav{
+	background-color: #000000;
+}
+nav div a{
+  color:#001f52;
+}
+
+footer{
+  	background-color:#000000;
+}
+footer span{
+	background-color: #000000;
+	color: #FFFFFF;
+   border-radius: 10px;
+}
+.sl__img{
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+.slmain{
+  margin:40px;
+}
+
